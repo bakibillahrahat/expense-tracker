@@ -45,14 +45,13 @@ The backend follows a microservice pattern where each service is independent and
 
 ## Tech stack
 
-* Language: (fill in: Go / Node.js / Python / Java — update to actual language)
+* Language: Java, Python, Sprint-Boot
 * Auth: JWT
 * LangChain (or equivalent) for NLP/LLM-based parsing
-* Database: (fill in: PostgreSQL / MongoDB / MySQL) per-service databases preferred
+* Database: MySQL
 * Containerization: Docker
 * Orchestration: Docker Compose (local), Kubernetes (production)
 
-> Replace placeholder values above with the actual choices used in each service.
 
 ---
 
@@ -60,7 +59,6 @@ The backend follows a microservice pattern where each service is independent and
 
 * Git
 * Docker & Docker Compose
-* (Optional) Node.js / Go / Python runtime if you want to run services without Docker
 * API keys for any third-party LLM provider (OpenAI, Anthropic, etc.) used by DS Service
 
 ---
