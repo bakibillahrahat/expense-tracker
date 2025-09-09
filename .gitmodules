@@ -1,0 +1,12 @@
+[submodule "authservice"]
+	path = authservice
+	url = https://github.com/bakibillahrahat/authservice.git
+[submodule "userService"]
+	path = userService
+	url = https://github.com/bakibillahrahat/userService.git
+[submodule "dsService"]
+	path = dsService
+	url = https://github.com/bakibillahrahat/dsService.git
+[submodule "expenseService"]
+	path = expenseService
+	url = https://github.com/bakibillahrahat/expenseService.git
